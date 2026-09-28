@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">KhuntaLocal</string>
+    <string name="app_tagline">Your Local. Your News.</string>
+    <string name="app_subtagline">Real People · Real Stories · Khunta</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_have_account">Already have an account?</string>
+    <string name="onboarding_login">Login</string>
+    <string name="feature_report_news">Report\nNews</string>
+    <string name="feature_be_reporter">Be a\nReporter</string>
+    <string name="feature_verified_updates">Verified\nUpdates</string>
+    <string name="feature_stronger_community">Stronger\nCommunity</string>
+
+    <!-- Home -->
+    <string name="home_location">Khunta, Mayurbhanj</string>
+    <string name="home_breaking">BREAKING</string>
+    <string name="home_top_stories">Top Stories</string>
+    <string name="home_view_all">View All</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_menu">Menu</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Report -->
+    <string name="report_title">Report News</string>
+    <string name="report_subtitle">What\'s happening around you?</string>
+    <string name="report_headline_label">Headline</string>
+    <string name="report_headline_hint">Write a short headline</string>
+    <string name="report_description_label">Description</string>
+    <string name="report_description_hint">Tell people what happened…</string>
+    <string name="report_category_label">Category</string>
+    <string name="report_location_label">Location</string>
+    <string name="report_use_current_location">Use current location</string>
+    <string name="report_language_label">Language</string>
+    <string name="report_evidence_label">How did you learn about this?</string>
+    <string name="report_submit">Submit Report</string>
+    <string name="report_submitted">Report submitted for review</string>
+</resources>

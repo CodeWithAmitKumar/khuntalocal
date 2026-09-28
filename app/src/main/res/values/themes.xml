@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. The Compose UI supplies the real colors;
+         this keeps the pre-Compose window (splash) on-brand. -->
+    <style name="Theme.KhuntaLocal" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/brand_green</item>
+        <item name="android:windowBackground">@color/surface_light</item>
+    </style>
+</resources>
